@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GalsenShopApp</string>
+    <string name="home_button_text">Commencez ici</string>
+    <string name="title_activity_gsactivity">GalsenShopApp</string>
+    <string name="title_home">ACCUEIL</string>
+    <string name="title_search">RECHERCHER</string>
+    <string name="title_cart">MON PANIER</string>
+    <string name="title_account">MON COMPTE</string>
+    <string name="edit"><u>Editer le compte</u></string>
+    <string name="product_image_description">Description</string>
+    <string name="add_product">Ajouter</string>
+    <string name="toolbar_title">Nos Produits</string>
+    <string name="label_category">Catégorie: </string>
+    <string name="addToCart2">Ajouter au Panier</string>
+    <string name="product_quantity_label">Qte</string>
+    <string name="delete_all_text">SUPPRIMER TOUT</string>
+    <string name="validate_cart_text">COMMANDER</string>
+    <string name="account_username">AIDA SOW</string>
+    <string name="logout">Déconnexion</string>
+    <string name="delete">Supprimer</string>
+
+
+</resources>
